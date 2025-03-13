@@ -9,7 +9,7 @@ class Car implements Comparable<Car> {
 
 	@Override
 	public String toString() {
-		return "Car [cost=" + cost + "]";
+		return "Car cost=" + cost ;
 	}
 	
 	@Override
